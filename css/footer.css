@@ -1,0 +1,29 @@
+/* Footer */
+
+.footer-content {
+    display: flex;
+    border-top: 3px solid #524A4A;
+    margin: 32px 0 0 0;
+    padding: 15px 0 0 0;
+}
+
+.footer-content address {
+    font-family: 'IBMPlexSans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27px;
+    line-height: 35px;
+    text-transform: uppercase;
+    color: #524A4A;
+}
+
+.footer-content a {
+    font-family: 'IBMPlexSans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27px;
+    line-height: 35px;
+    text-transform: uppercase;
+    color: #524A4A;
+    margin: 0 0 0 64px;
+}
